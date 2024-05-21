@@ -69,6 +69,10 @@ INSERT INTO stock_prices (stock_id, date, open, high, low, close, volume) VALUES
 (3, '2023-05-20', 2700.00, 2750.00, 2690.00, 2740.00, 1500000);
 ```
 
+
+![Exemplo do projeto rodando](llm-local.gif)
+
+
 ## Licença
 Este projeto está licenciado sob a licença MIT. 
 
